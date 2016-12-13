@@ -1,4 +1,4 @@
-package com.headius.unsafe;
+package com.headius.unsafe.fences;
 
 import java.lang.reflect.Field;
 import java.lang.reflect.Method;
